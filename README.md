@@ -1,4 +1,4 @@
-# 清水123
+# 清水
 
 > A Vue.js project
 
